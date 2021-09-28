@@ -2,7 +2,7 @@
   "name": "discordjs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   "dependencies": {
     "discord.js": "^13.1.0",
     "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
     "wikipedia": "^1.1.5"
   }
 }
